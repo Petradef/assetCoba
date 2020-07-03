@@ -1,0 +1,17 @@
+#asset {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  border-collapse: collapse;
+  border: 3px solid #ddd;
+  width: 100%;
+}
+
+#body {
+  border-collapse: collapse;
+  border: 3px solid #ddd;
+}
+
+#addNew {
+  background-color: black;
+}
